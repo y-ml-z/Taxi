@@ -1,8 +1,6 @@
 # Taxi
-# Taxi
 
-### Taxi
-![](httpsmiro.medium.commax4001SzwlbwcQME6NFoVFbDCrhA.png)
+![](https://github.com/y-ml-z/Taxi/blob/master/experience%20replay.PNG)
 
 
  
